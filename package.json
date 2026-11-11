@@ -1,0 +1,8 @@
+{
+  "name": "cinematic-scroll-portfolio",
+  "version": "1.0.0",
+  "description": "Ultra-smooth scroll-driven cinematic animation portfolio background",
+  "scripts": {
+    "start": "npx serve -l 3000 ."
+  }
+}
